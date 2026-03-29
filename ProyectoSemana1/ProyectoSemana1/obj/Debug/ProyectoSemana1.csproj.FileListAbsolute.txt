@@ -1,0 +1,8 @@
+C:\POO\ProyectoSemana1\ProyectoSemana1\bin\Debug\ProyectoSemana1.exe.config
+C:\POO\ProyectoSemana1\ProyectoSemana1\bin\Debug\ProyectoSemana1.exe
+C:\POO\ProyectoSemana1\ProyectoSemana1\bin\Debug\ProyectoSemana1.pdb
+C:\POO\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.csproj.AssemblyReference.cache
+C:\POO\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.csproj.CoreCompileInputs.cache
+C:\POO\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.exe
+C:\POO\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.pdb
+C:\POO\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.exe.config
