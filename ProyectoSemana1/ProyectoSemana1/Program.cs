@@ -13,8 +13,8 @@ namespace ProyectoSemana1
             ListaSimple lista = new ListaSimple();
             // Añadir 5 elementos
             lista.InsertarLIFO(50);
-            lista.InsertarLIFO(20);
-            lista.InsertarLIFO(80);
+            lista.InsertarLIFO(14);
+            lista.InsertarLIFO(18);
             lista.InsertarLIFO(10);
             lista.InsertarLIFO(90);
             // Listar los elementos
