@@ -1,0 +1,7 @@
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\Tarea S1\TareaS1\TareaS1\bin\Release\TareaS1.exe.config
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\Tarea S1\TareaS1\TareaS1\bin\Release\TareaS1.exe
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\Tarea S1\TareaS1\TareaS1\bin\Release\TareaS1.pdb
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\Tarea S1\TareaS1\TareaS1\obj\Release\TareaS1.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\Tarea S1\TareaS1\TareaS1\obj\Release\TareaS1.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\Tarea S1\TareaS1\TareaS1\obj\Release\TareaS1.exe
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\Tarea S1\TareaS1\TareaS1\obj\Release\TareaS1.pdb

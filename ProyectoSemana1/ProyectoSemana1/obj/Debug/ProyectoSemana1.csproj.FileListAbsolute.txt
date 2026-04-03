@@ -6,3 +6,10 @@ C:\POO\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.csproj.CoreComp
 C:\POO\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.exe
 C:\POO\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.pdb
 C:\POO\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.exe.config
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ProyectoSemana1\ProyectoSemana1\bin\Debug\ProyectoSemana1.exe.config
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ProyectoSemana1\ProyectoSemana1\bin\Debug\ProyectoSemana1.exe
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ProyectoSemana1\ProyectoSemana1\bin\Debug\ProyectoSemana1.pdb
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.exe
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ProyectoSemana1\ProyectoSemana1\obj\Debug\ProyectoSemana1.pdb
