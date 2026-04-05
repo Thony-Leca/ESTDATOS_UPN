@@ -20,11 +20,13 @@ namespace ProyectoSemana1
             nuevo.info = dato;
             if (raiz == null)
             {
-                nuevo.sig = null; raiz = nuevo;
+                nuevo.sig = null; 
+                raiz = nuevo;
             }
             else
             {
-                nuevo.sig = raiz; raiz = nuevo;
+                nuevo.sig = raiz; 
+                raiz = nuevo;
             }
         }
         // Método InsertarFIFO

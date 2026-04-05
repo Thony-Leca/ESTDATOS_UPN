@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\bin\Debug\ListaCircularDoble.exe.config
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\bin\Debug\ListaCircularDoble.exe
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\bin\Debug\ListaCircularDoble.pdb
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.exe
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.pdb
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\obj\Debug\ListaCircularDoble.exe.config

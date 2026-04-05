@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19699B3E-06E1-482E-BA1F-192B4DD8A5ED}|ListaCircularSimple\\ListaCircularSimple.csproj|c:\\users\\upn\\desktop\\upn\\estdatos_upn\\listacircularsimple\\listacircularsimple\\listacircularsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19699B3E-06E1-482E-BA1F-192B4DD8A5ED}|ListaCircularSimple\\ListaCircularSimple.csproj|solutionrelative:listacircularsimple\\listacircularsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19699B3E-06E1-482E-BA1F-192B4DD8A5ED}|ListaCircularSimple\\ListaCircularSimple.csproj|c:\\users\\upn\\desktop\\upn\\estdatos_upn\\listacircularsimple\\listacircularsimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19699B3E-06E1-482E-BA1F-192B4DD8A5ED}|ListaCircularSimple\\ListaCircularSimple.csproj|solutionrelative:listacircularsimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19699B3E-06E1-482E-BA1F-192B4DD8A5ED}|ListaCircularSimple\\ListaCircularSimple.csproj|c:\\users\\upn\\desktop\\upn\\estdatos_upn\\listacircularsimple\\listacircularsimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19699B3E-06E1-482E-BA1F-192B4DD8A5ED}|ListaCircularSimple\\ListaCircularSimple.csproj|solutionrelative:listacircularsimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaCircularSimple.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularSimple\\ListaCircularSimple\\ListaCircularSimple.cs",
+              "RelativeDocumentMoniker": "ListaCircularSimple\\ListaCircularSimple.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularSimple\\ListaCircularSimple\\ListaCircularSimple.cs",
+              "RelativeToolTip": "ListaCircularSimple\\ListaCircularSimple.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwE4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T22:43:47.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularSimple\\ListaCircularSimple\\Nodo.cs",
+              "RelativeDocumentMoniker": "ListaCircularSimple\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularSimple\\ListaCircularSimple\\Nodo.cs",
+              "RelativeToolTip": "ListaCircularSimple\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T22:43:25.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularSimple\\ListaCircularSimple\\Program.cs",
+              "RelativeDocumentMoniker": "ListaCircularSimple\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularSimple\\ListaCircularSimple\\Program.cs",
+              "RelativeToolTip": "ListaCircularSimple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T22:43:02.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

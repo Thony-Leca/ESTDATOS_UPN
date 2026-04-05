@@ -12,18 +12,19 @@ namespace TareaS1
         {
             ListaSimple lista = new ListaSimple();
             // Añadir 5 elementos
-            lista.InsertarFIFO("Cesar");
-            lista.InsertarFIFO("Anthony");
-            lista.InsertarFIFO("José");
-            lista.InsertarFIFO("Joshimar");
-            lista.InsertarFIFO("Renato");
+            lista.InsertarLIFO("Cesar");
+            lista.InsertarLIFO("Anthony");
+            lista.InsertarLIFO("José");
+            lista.InsertarLIFO("Joshimar");
+            lista.InsertarLIFO("Renato");
             // Listar los elementos
             Console.WriteLine("--- LISTADO DE ELEMENTOS ---");
             lista.Recorrido();
             // Ordenar los elementos
             lista.Ordenar();
+            Console.WriteLine("");
             // Listar los elementos
-            Console.WriteLine("--- LISTADO DE ELEMENTOS ---");
+            Console.WriteLine("--- LISTADO DE ELEMENTOS ORDENADOS ---");
             lista.Recorrido();
             // Buscar elemento
             string dato;

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\POO\\ProyectoSemana1\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ProyectoSemana1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3372DEB-D4DE-4523-8F63-F6B5757F1B74}|ProyectoSemana1\\ProyectoSemana1.csproj|c:\\poo\\proyectosemana1\\proyectosemana1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3372DEB-D4DE-4523-8F63-F6B5757F1B74}|ProyectoSemana1\\ProyectoSemana1.csproj|c:\\users\\upn\\desktop\\upn\\estdatos_upn\\proyectosemana1\\proyectosemana1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3372DEB-D4DE-4523-8F63-F6B5757F1B74}|ProyectoSemana1\\ProyectoSemana1.csproj|solutionrelative:proyectosemana1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3372DEB-D4DE-4523-8F63-F6B5757F1B74}|ProyectoSemana1\\ProyectoSemana1.csproj|c:\\poo\\proyectosemana1\\proyectosemana1\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3372DEB-D4DE-4523-8F63-F6B5757F1B74}|ProyectoSemana1\\ProyectoSemana1.csproj|C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ProyectoSemana1\\proyectosemana1\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3372DEB-D4DE-4523-8F63-F6B5757F1B74}|ProyectoSemana1\\ProyectoSemana1.csproj|solutionrelative:proyectosemana1\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3372DEB-D4DE-4523-8F63-F6B5757F1B74}|ProyectoSemana1\\ProyectoSemana1.csproj|c:\\poo\\proyectosemana1\\proyectosemana1\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3372DEB-D4DE-4523-8F63-F6B5757F1B74}|ProyectoSemana1\\ProyectoSemana1.csproj|C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ProyectoSemana1\\proyectosemana1\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3372DEB-D4DE-4523-8F63-F6B5757F1B74}|ProyectoSemana1\\ProyectoSemana1.csproj|solutionrelative:proyectosemana1\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,21 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ListaSimple.cs",
-              "DocumentMoniker": "C:\\POO\\ProyectoSemana1\\ProyectoSemana1\\ListaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ProyectoSemana1\\ProyectoSemana1\\ListaSimple.cs",
               "RelativeDocumentMoniker": "ProyectoSemana1\\ListaSimple.cs",
-              "ToolTip": "C:\\POO\\ProyectoSemana1\\ProyectoSemana1\\ListaSimple.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ProyectoSemana1\\ProyectoSemana1\\ListaSimple.cs",
               "RelativeToolTip": "ProyectoSemana1\\ListaSimple.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAUwFsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwFsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T20:35:03.079Z",
               "EditorCaption": ""
@@ -45,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\POO\\ProyectoSemana1\\ProyectoSemana1\\Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ProyectoSemana1\\ProyectoSemana1\\Nodo.cs",
               "RelativeDocumentMoniker": "ProyectoSemana1\\Nodo.cs",
-              "ToolTip": "C:\\POO\\ProyectoSemana1\\ProyectoSemana1\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ProyectoSemana1\\ProyectoSemana1\\Nodo.cs",
               "RelativeToolTip": "ProyectoSemana1\\Nodo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T20:25:28.153Z",
               "EditorCaption": ""
@@ -58,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\POO\\ProyectoSemana1\\ProyectoSemana1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ProyectoSemana1\\ProyectoSemana1\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoSemana1\\Program.cs",
-              "ToolTip": "C:\\POO\\ProyectoSemana1\\ProyectoSemana1\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ProyectoSemana1\\ProyectoSemana1\\Program.cs",
               "RelativeToolTip": "ProyectoSemana1\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T20:15:13.122Z",
               "EditorCaption": ""

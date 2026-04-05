@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularDoble\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5915A2EC-1E87-4A66-AE9E-E77D1911E7A5}|ListaCircularDoble\\ListaCircularDoble.csproj|c:\\users\\upn\\desktop\\upn\\estdatos_upn\\listacirculardoble\\listacirculardoble\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5915A2EC-1E87-4A66-AE9E-E77D1911E7A5}|ListaCircularDoble\\ListaCircularDoble.csproj|solutionrelative:listacirculardoble\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5915A2EC-1E87-4A66-AE9E-E77D1911E7A5}|ListaCircularDoble\\ListaCircularDoble.csproj|c:\\users\\upn\\desktop\\upn\\estdatos_upn\\listacirculardoble\\listacirculardoble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5915A2EC-1E87-4A66-AE9E-E77D1911E7A5}|ListaCircularDoble\\ListaCircularDoble.csproj|solutionrelative:listacirculardoble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5915A2EC-1E87-4A66-AE9E-E77D1911E7A5}|ListaCircularDoble\\ListaCircularDoble.csproj|c:\\users\\upn\\desktop\\upn\\estdatos_upn\\listacirculardoble\\listacirculardoble\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5915A2EC-1E87-4A66-AE9E-E77D1911E7A5}|ListaCircularDoble\\ListaCircularDoble.csproj|solutionrelative:listacirculardoble\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaDoble.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularDoble\\ListaCircularDoble\\ListaDoble.cs",
+              "RelativeDocumentMoniker": "ListaCircularDoble\\ListaDoble.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularDoble\\ListaCircularDoble\\ListaDoble.cs",
+              "RelativeToolTip": "ListaCircularDoble\\ListaDoble.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAqwMYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T23:45:58.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularDoble\\ListaCircularDoble\\Nodo.cs",
+              "RelativeDocumentMoniker": "ListaCircularDoble\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularDoble\\ListaCircularDoble\\Nodo.cs",
+              "RelativeToolTip": "ListaCircularDoble\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T23:45:03.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularDoble\\ListaCircularDoble\\Program.cs",
+              "RelativeDocumentMoniker": "ListaCircularDoble\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\UPN\\ESTDATOS_UPN\\ListaCircularDoble\\ListaCircularDoble\\Program.cs",
+              "RelativeToolTip": "ListaCircularDoble\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T23:44:17.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ListaCircularDoble
+{
+    public class ListaDoble
+    {
+        Nodo raiz1, raiz2, ptr, aux, nuevo;
+        // Costructor
+        public ListaDoble()
+        {
+            raiz1 = raiz2 = null;
+        }
+
+        // INSERTARLIFO
+        public void InsertarLIFO(int dato)
+        {
+            nuevo = new Nodo();
+            nuevo.info = dato;
+            if (raiz1 == null)
+            {
+                nuevo.sig = nuevo.ant = null;
+                raiz1 = raiz2 = nuevo;
+                aux = nuevo;
+            }
+            else
+            {
+                nuevo.sig = raiz1;
+                nuevo.ant = raiz2;
+                raiz1.ant = nuevo;
+                raiz1 = nuevo;
+                aux.sig = nuevo;
+            }
+        }
+
+
+        // INSERTARFIFO
+        public void InsertarFIFO(int dato)
+        {
+
+            nuevo = new Nodo();
+            nuevo.info = dato;
+            if (raiz2 == null)
+            {
+                nuevo.sig = nuevo.ant = null;
+                raiz1 = raiz2 = aux = nuevo;
+            }
+            else
+            {
+                nuevo.sig = raiz1;
+                nuevo.ant = raiz2;
+                raiz2.sig = nuevo;
+                raiz2 = nuevo;
+                aux = nuevo;
+            }
+        }
+
+
+        // RECORRIDO
+        public void Recorrido()
+        {
+            ptr = raiz1;
+            Console.WriteLine("\n ---- LISTADO DE ELEMENTOS ----");
+            do
+            {
+                Console.Write("{0},", ptr.info);
+                ptr = ptr.sig;
+            } while (ptr != raiz1);
+            Console.WriteLine("");
+        }
+
+        // BUSCAR 
+        public bool Buscar(int dato)
+        {
+            bool encontrado = false;
+            ptr = raiz1;
+            do
+            {
+                if (ptr.info == dato)
+                {
+                    encontrado = true;
+                }
+                else
+                {
+                    ptr = ptr.sig;
+                }
+            } while (ptr != raiz1 && !encontrado);
+            return encontrado;
+        }
+
+
+        // ELIMINAR
+        public bool Eliminar(int dato)
+        {
+            if (raiz1 == null)
+                return false;
+
+            ptr = raiz1;
+            bool encontrado = false;
+            
+            if (raiz1.info == dato)
+            {
+                encontrado = true;
+                // Si solo hay un elemento
+                if (raiz1 == raiz2)
+                {
+                    raiz1 = raiz2 = null;
+                }
+                else
+                {
+                    aux = raiz1;
+                    while (aux.sig != raiz1)
+                    {
+                        aux = aux.sig;
+                    }
+                    raiz1 = raiz1.sig;
+                    raiz1.ant = aux.ant;
+                    aux.sig = raiz1;
+                }
+            }
+            else if (raiz2.info == dato)
+            {
+                encontrado = true;
+                // Si solo hay un elemento
+                if (raiz1 == raiz2)
+                {
+                    raiz1 = raiz2 = null;
+                }
+                else
+                {
+                    aux = raiz2;
+                    while (aux.ant != raiz1)
+                    {
+                        aux = aux.ant;
+                    }
+                    raiz2 = raiz2.ant;
+                    raiz2.sig = aux.sig;
+                    raiz1.ant = raiz2;
+                }
+            }
+            else
+            {
+                // Búsqueda
+                do
+                {
+                    if (ptr.info == dato)
+                    {
+                        encontrado = true;
+                    }
+                    else { ptr = ptr.sig; }
+                } while (ptr != raiz1 && !encontrado);
+
+                if (encontrado)
+                {
+                    ptr.ant.sig = ptr.sig;
+                    ptr.sig.ant = ptr.ant;
+                }
+            }
+            return encontrado;
+        }
+
+
+        //public void Eliminar(int dato)
+        //{
+        //    bool resultado = false;
+        //    if (raiz.info == dato)
+        //    {
+        //        resultado = true;
+        //        aux = raiz;
+        //        while (aux.sig != raiz)
+        //        {
+        //            aux = aux.sig;
+        //        }
+        //        raiz = raiz.sig;
+        //        aux.sig = raiz;
+
+        //    }
+        //    else
+        //    {
+        //        ptr = aux = raiz;
+        //        do
+        //        {
+        //            if (ptr.info == dato)
+        //            {
+        //                resultado = true;
+        //                aux.sig = ptr.sig;
+        //                break;
+        //            }
+        //            aux = ptr;
+        //            ptr = ptr.sig;
+        //        } while (ptr != raiz);
+        //    }
+        //    Console.WriteLine("{0} ELIMINADO", resultado ? "SI" : "NO");
+        //    Recorrido();
+        //}
+
+        // ORDENAR
+        public void Ordenar()
+        {
+            Nodo ptr1, ptr2;
+            ptr1 = raiz1;
+            while (ptr1 != null)
+            {
+                ptr2 = raiz1;
+                while (ptr2 != null)
+                {
+                    if (ptr1.info > ptr2.info)
+                    {
+                        int aux = ptr1.info;
+                        ptr1.info = ptr2.info;
+                        ptr2.info = aux;
+                    }
+                    ptr2 = ptr2.sig;
+                }
+                ptr1 = ptr1.sig;
+            }
+        }
+    }
+}

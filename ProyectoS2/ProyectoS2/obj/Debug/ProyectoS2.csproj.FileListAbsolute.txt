@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ProyectoS2\ProyectoS2\bin\Debug\ProyectoS2.exe.config
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ProyectoS2\ProyectoS2\bin\Debug\ProyectoS2.exe
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ProyectoS2\ProyectoS2\bin\Debug\ProyectoS2.pdb
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ProyectoS2\ProyectoS2\obj\Debug\ProyectoS2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ProyectoS2\ProyectoS2\obj\Debug\ProyectoS2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ProyectoS2\ProyectoS2\obj\Debug\ProyectoS2.exe
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ProyectoS2\ProyectoS2\obj\Debug\ProyectoS2.pdb
+C:\Users\UPN\Desktop\UPN\ESTDATOS_UPN\ProyectoS2\ProyectoS2\obj\Debug\ProyectoS2.exe.config
