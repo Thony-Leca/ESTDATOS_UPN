@@ -106,16 +106,13 @@ namespace ListaCircularDoble
             ptr = raiz1;
             bool encontrado = false;
 
-            // si es lista vcia mandar console
-            if (ptr == null) encontrado = false;
-
-            else if (raiz1 == raiz2 && raiz1.info == dato)
+            if (raiz1 == raiz2 && raiz1.info == dato)
             {
                 raiz1 = raiz2 = null;
                 return true;
             }
 
-            else if (raiz1.info == dato)
+            if (raiz1.info == dato)
             {
                 encontrado = true;
                 aux = raiz1;
@@ -130,6 +127,8 @@ namespace ListaCircularDoble
             else if (raiz2.info == dato)
             {
                 encontrado = true;
+                // Como es doblemente enlazada, el anterior es directamente raiz2.ant. 
+                // Evitamos el bucle innecesario que hace que el programa se quede colgado.
                 raiz2 = raiz2.ant;
                 raiz2.sig = raiz1;
                 raiz1.ant = raiz2;

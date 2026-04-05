@@ -15,7 +15,7 @@ namespace ListaCircularDoble
 
             for (int i = 0; i < 5; i++)
             {
-                milista.InsertarLIFO(rnd.Next(10, 100));
+                milista.InsertarFIFO(rnd.Next(10, 100));
             }
 
             // Imprimir
@@ -35,13 +35,6 @@ namespace ListaCircularDoble
             {
                 dato = Int32.Parse(Console.ReadLine());
                 res = milista.Buscar(dato);
-                //if (res)
-                //{
-                //    Console.WriteLine("Dato {0} Encontrado.", dato);
-                //} else
-                //{
-                //    Console.WriteLine("Dato {0} No se encontró. Intenta nuevamente", dato);
-                //}
                 msg = res ? "Se encontró." : "No se encontró. Intenta nuevamente.";
 
                 Console.WriteLine("Dato {0} " + msg, dato);
@@ -59,10 +52,6 @@ namespace ListaCircularDoble
                 milista.Recorrido();
 
             } while (dato != -1);
-
-
-
-
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\bin\Release\ListaCircularDoble.exe.config
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\bin\Release\ListaCircularDoble.exe
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\bin\Release\ListaCircularDoble.pdb
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\obj\Release\ListaCircularDoble.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\obj\Release\ListaCircularDoble.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\obj\Release\ListaCircularDoble.exe
+C:\Users\Victus\Desktop\proyects\UPN\ESTDATOS_UPN\ListaCircularDoble\ListaCircularDoble\obj\Release\ListaCircularDoble.pdb

@@ -66,15 +66,8 @@ namespace ListaCircularDoble
             Console.WriteLine("\n ---- LISTADO DE ELEMENTOS ----");
             do
             {
-                if (ptr == null)
-                {
-                    Console.WriteLine("Vacía");
-                }
-                else
-                {
-                    Console.Write("{0},", ptr.info);
-                    ptr = ptr.sig;
-                }
+                Console.Write("{0},", ptr.info);
+                ptr = ptr.sig;
             } while (ptr != raiz1);
             Console.WriteLine("");
         }
@@ -102,27 +95,26 @@ namespace ListaCircularDoble
         // ELIMINAR
         public bool Eliminar(int dato)
         {
+            if (raiz1 == null) return false; // Lista vacía
+
+            // CASO 1: Hay un ÚNICO elemento en toda la lista
+            if (raiz1 == raiz2 && raiz1.info == dato)
+            {
+                raiz1 = raiz2 = null;
+                return true; // Se eliminó el único dato
+            }
 
             ptr = raiz1;
             bool encontrado = false;
 
-            // si es lista vcia mandar console
-            if (ptr == null) encontrado = false;
-
-            else if (raiz1 == raiz2 && raiz1.info == dato)
-            {
-                raiz1 = raiz2 = null;
-                return true;
-            }
-
-            else if (raiz1.info == dato)
+            if (raiz1.info == dato)
             {
                 encontrado = true;
                 aux = raiz1;
                 do
                 {
                     aux = aux.sig;
-                } while (aux != null && aux.sig != raiz1);
+                } while (aux != null && aux.sig != raiz1); // Se evita error de nulos
                 raiz1 = raiz1.sig;
                 raiz1.ant = aux.ant;
                 aux.sig = raiz1;
@@ -130,9 +122,15 @@ namespace ListaCircularDoble
             else if (raiz2.info == dato)
             {
                 encontrado = true;
+                aux = raiz2;
+                do
+                {
+                    aux = aux.ant;
+                } while (aux.ant != raiz2);
                 raiz2 = raiz2.ant;
                 raiz2.sig = raiz1;
                 raiz1.ant = raiz2;
+                aux.ant = raiz2;
             }
             else
             {
@@ -142,6 +140,7 @@ namespace ListaCircularDoble
                     if (ptr.info == dato)
                     {
                         encontrado = true;
+                        Console.Write("el utlimo");
                     }
                     else { ptr = ptr.sig; }
                 } while (ptr != raiz1 && !encontrado);
