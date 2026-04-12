@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\EST-DATOS\ESTDATOS_UPN\ProyectoS3\ProyectoS3\obj\Debug\ProyectoS3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\EST-DATOS\ESTDATOS_UPN\ProyectoS3\ProyectoS3\obj\Debug\ProyectoS3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\EST-DATOS\ESTDATOS_UPN\ProyectoS3\ProyectoS3\bin\Debug\ProyectoS3.exe.config
+C:\Users\UPN\Desktop\EST-DATOS\ESTDATOS_UPN\ProyectoS3\ProyectoS3\bin\Debug\ProyectoS3.exe
+C:\Users\UPN\Desktop\EST-DATOS\ESTDATOS_UPN\ProyectoS3\ProyectoS3\bin\Debug\ProyectoS3.pdb
+C:\Users\UPN\Desktop\EST-DATOS\ESTDATOS_UPN\ProyectoS3\ProyectoS3\obj\Debug\ProyectoS3.exe
+C:\Users\UPN\Desktop\EST-DATOS\ESTDATOS_UPN\ProyectoS3\ProyectoS3\obj\Debug\ProyectoS3.pdb
+C:\Users\UPN\Desktop\EST-DATOS\ESTDATOS_UPN\ProyectoS3\ProyectoS3\obj\Debug\ProyectoS3.exe.config

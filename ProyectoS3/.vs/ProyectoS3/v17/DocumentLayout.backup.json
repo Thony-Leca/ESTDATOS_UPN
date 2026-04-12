@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\EST-DATOS\\ESTDATOS_UPN\\ProyectoS3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE66340-0D38-4DE2-8980-265CA8804474}|ProyectoS3\\ProyectoS3.csproj|c:\\users\\upn\\desktop\\est-datos\\estdatos_upn\\proyectos3\\proyectos3\\operadoresprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE66340-0D38-4DE2-8980-265CA8804474}|ProyectoS3\\ProyectoS3.csproj|solutionrelative:proyectos3\\operadoresprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE66340-0D38-4DE2-8980-265CA8804474}|ProyectoS3\\ProyectoS3.csproj|c:\\users\\upn\\desktop\\est-datos\\estdatos_upn\\proyectos3\\proyectos3\\usostack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE66340-0D38-4DE2-8980-265CA8804474}|ProyectoS3\\ProyectoS3.csproj|solutionrelative:proyectos3\\usostack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProyectoS3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE66340-0D38-4DE2-8980-265CA8804474}|ProyectoS3\\ProyectoS3.csproj|c:\\users\\upn\\desktop\\est-datos\\estdatos_upn\\proyectos3\\proyectos3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProyectoS3",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\EST-DATOS\\ESTDATOS_UPN\\ProyectoS3\\ProyectoS3\\ProyectoS3.csproj",
+              "RelativeDocumentMoniker": "ProyectoS3\\ProyectoS3.csproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\EST-DATOS\\ESTDATOS_UPN\\ProyectoS3\\ProyectoS3\\ProyectoS3.csproj",
+              "RelativeToolTip": "ProyectoS3\\ProyectoS3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-11T23:32:04.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperadoresPrioridad.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\EST-DATOS\\ESTDATOS_UPN\\ProyectoS3\\ProyectoS3\\OperadoresPrioridad.cs",
+              "RelativeDocumentMoniker": "ProyectoS3\\OperadoresPrioridad.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\EST-DATOS\\ESTDATOS_UPN\\ProyectoS3\\ProyectoS3\\OperadoresPrioridad.cs",
+              "RelativeToolTip": "ProyectoS3\\OperadoresPrioridad.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:31:34.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsoStack.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\EST-DATOS\\ESTDATOS_UPN\\ProyectoS3\\ProyectoS3\\UsoStack.cs",
+              "RelativeDocumentMoniker": "ProyectoS3\\UsoStack.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\EST-DATOS\\ESTDATOS_UPN\\ProyectoS3\\ProyectoS3\\UsoStack.cs",
+              "RelativeToolTip": "ProyectoS3\\UsoStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T22:39:37.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
